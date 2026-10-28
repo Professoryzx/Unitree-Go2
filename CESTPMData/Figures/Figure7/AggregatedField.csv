@@ -1,0 +1,25 @@
+scene_id,scene,method,metric,mean_m,source_table
+1,indoor corridor,STPM-Base,FDE,0.40,8
+1,indoor corridor,STPM-Base,ADE,0.31,8
+1,indoor corridor,T-BAM only,FDE,0.35,8
+1,indoor corridor,T-BAM only,ADE,0.27,8
+1,indoor corridor,D-FAM only,FDE,0.31,8
+1,indoor corridor,D-FAM only,ADE,0.24,8
+1,indoor corridor,CE-STPM,FDE,0.27,8
+1,indoor corridor,CE-STPM,ADE,0.21,8
+2,outdoor mixed terrain,STPM-Base,FDE,0.56,8
+2,outdoor mixed terrain,STPM-Base,ADE,0.42,8
+2,outdoor mixed terrain,T-BAM only,FDE,0.49,8
+2,outdoor mixed terrain,T-BAM only,ADE,0.37,8
+2,outdoor mixed terrain,D-FAM only,FDE,0.45,8
+2,outdoor mixed terrain,D-FAM only,ADE,0.34,8
+2,outdoor mixed terrain,CE-STPM,FDE,0.39,8
+2,outdoor mixed terrain,CE-STPM,ADE,0.30,8
+3,wild unstructured terrain,STPM-Base,FDE,0.74,8
+3,wild unstructured terrain,STPM-Base,ADE,0.53,8
+3,wild unstructured terrain,T-BAM only,FDE,0.65,8
+3,wild unstructured terrain,T-BAM only,ADE,0.47,8
+3,wild unstructured terrain,D-FAM only,FDE,0.59,8
+3,wild unstructured terrain,D-FAM only,ADE,0.43,8
+3,wild unstructured terrain,CE-STPM,FDE,0.49,8
+3,wild unstructured terrain,CE-STPM,ADE,0.35,8

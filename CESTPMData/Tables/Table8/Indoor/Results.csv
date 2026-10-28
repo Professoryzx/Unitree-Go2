@@ -1,0 +1,5 @@
+scene,method,ADE_m,FDE_m,risk_precision_percent
+1,STPM-Base,0.31,0.40,81
+1,T-BAM only,0.27,0.35,83
+1,D-FAM only,0.24,0.31,85
+1,CE-STPM,0.21,0.27,88

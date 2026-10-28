@@ -1,0 +1,6 @@
+partition,flat_percent,stairs_percent,slopes_percent,obstacles_percent,rough_percent,positive_labels_percent,friction_mix_percent_mu_ge_0.6_to_mu_lt_0.6,contact_mix_percent_rigid_to_compliant
+Training,22,18,20,17,23,18.6,80 : 20,80 : 20
+Validation,21,19,20,17,23,17.9,80 : 20,80 : 20
+ID,22,18,20,16,24,18.2,80 : 20,80 : 20
+OOD-G,15,24,26,18,17,19.4,80 : 20,80 : 20
+OOD-P,21,18,20,17,24,21.1,50 : 50,50 : 50

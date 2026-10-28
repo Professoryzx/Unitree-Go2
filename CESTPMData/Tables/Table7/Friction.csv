@@ -1,0 +1,4 @@
+friction_coefficient_mu,STPM-Base_FDE_m,STPM+DR_FDE_m,D-FAM only_FDE_m,CE-STPM_FDE_m
+0.8,0.48,0.46,0.43,0.41
+0.6,0.76,0.72,0.67,0.61
+0.4,1.90,1.82,1.76,1.61
